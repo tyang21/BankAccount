@@ -39,7 +39,7 @@ public class BankAccount
 	}
 	public String toString() 
 	{
-		return "Name: " + name + " Balance: " + balance + " accNum: " + accNum;
+		return "Name: " + name + "\tBalance: " + balance + "\taccNum: " + accNum;
 	}
 }
 
